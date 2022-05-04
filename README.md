@@ -12,7 +12,7 @@
 >
 > https://blog.csdn.net/Augenstern_QXL/article/details/120088445
 >
-> **笔记在docs文件中 ， 代码在 code/src/com/yihao_Lai 目录下 **
+> 笔记在docs文件中 ， 代码在 code/src/com/yihao_Lai 目录下 
 >
 > 作者 ： 缘一
 >
