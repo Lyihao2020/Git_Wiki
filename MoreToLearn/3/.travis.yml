@@ -1,0 +1,11 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+  - npm install
+script:
+- awesome_bot README.md --allow-dupe --allow-redirect --allow-ssl
+- awesome_bot README_*.md --allow-dupe --allow-redirect --allow-ssl
+- npm run toc
+- npm run diff
